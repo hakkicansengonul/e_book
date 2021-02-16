@@ -1,7 +1,7 @@
 # e_book_app
 ----------------------------------------------------------------
-*The picture in the application was randomly placed as an example.
-*this application is designed as a template only
+*The picture in the application was randomly placed as an example.< br >
+*this application is designed as a template only< br >
 *The application is being developed more and more every day.
 *The completed version will be uploaded as soon as possible.
 ----------------------------------------------------------------
