@@ -1,5 +1,5 @@
 # e_book_app
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 *The picture in the application was randomly placed as an example.
 *this application is designed as a template only.
 *The application is being developed more and more every day.
@@ -16,3 +16,4 @@
 
 
 github =>  https://github.com/hakkicansengonul
+---------------------------------------------------------------
